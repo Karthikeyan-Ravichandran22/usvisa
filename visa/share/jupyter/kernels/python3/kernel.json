@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/karthick/Documents/End-End-Projects/MLOps/MLOps_2/usvisa/usvisa/visa/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
